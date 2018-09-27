@@ -2,7 +2,7 @@
 #include <string.h>
 #include <conio.h>
 #include <Windows.h>
-
+ 
 class Player {
 	int pos;
 	char face[100];
